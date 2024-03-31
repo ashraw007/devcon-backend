@@ -2,6 +2,7 @@
   "name": "devcon",
   "version": "1.0.0",
   "description": "A MERN stack social media app",
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "client-install": "cd client && npm install ",
